@@ -18,15 +18,15 @@ from source.conf.problem_template import default_template
 teachers = {
     'huanghai': {
         'username': 'bupt#scshuanghai',
-        'passwd': '12345678',
+        'passwd': 'destination',
     },
     'zhangyanmei': {
         'username': 'bupt#scszhangyanmei',
-        'passwd': '12345678',
+        'passwd': 'destination',
     },
     'zhanglei': {
         'username': 'bupt#scszhanglei',
-        'passwd': '19960820',
+        'passwd': 'destination',
     },
 }
 

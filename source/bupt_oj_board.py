@@ -15,7 +15,7 @@ import uuid
 teachers = [
     {
         'username': 'bupt#scshuanghai',
-        'passwd': '12345678',
+        'passwd': 'destination',
     },
 ]
 

@@ -13,7 +13,7 @@ import json
 teachers = [
     {
         'username': 'bupt#scshuanghai',
-        'passwd': '12345678',
+        'passwd': 'destinaiton',
     },
 ]
 
